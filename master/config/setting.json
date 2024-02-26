@@ -1,0 +1,30 @@
+{
+  "delayComment": [
+    10,
+    30
+  ],
+  "autoShowProduct": [
+    10,
+    30
+  ],
+  "autoView": [
+    10,
+    30
+  ],
+  "autoBuy": [
+    10,
+    30
+  ],
+  "autoShare": [
+    10,
+    30
+  ],
+  "autoLike": [
+    10,
+    30
+  ],
+  "autoInteraksi": [
+    10,
+    30
+  ]
+}
